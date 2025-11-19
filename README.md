@@ -14,7 +14,7 @@ Este projeto de pesquisa realiza uma análise comparativa entre sistemas de aute
 
 A pesquisa busca compreender como propriedades essenciais da blockchain — como **imutabilidade**, **consenso distribuído**, **transparência** e **auditabilidade** — podem aprimorar segurança, privacidade e governança em sistemas de autenticação adotados em contextos governamentais, corporativos e educacionais.
 
-A abordagem utilizada é **científica, exploratória e comparativa**, combinando revisão sistemática da literatura, análise documental, estudo de casos e síntese de métricas técnicas. O trabalho propõe uma **estrutura conceitual** que apoia engenheiros de software na criação de soluções mais **seguras, escaláveis e centradas no usuário**.
+A abordagem adotada é **científica, exploratória e comparativa**, combinando análise documental, estudo de artigos primários, interpretação empírica de métricas disponíveis na literatura e comparação técnica entre paradigmas. O trabalho propõe uma **estrutura conceitual** que apoia engenheiros de software na criação de soluções mais **seguras, escaláveis e centradas no usuário**.
 
 ---
 
@@ -41,25 +41,25 @@ A partir desse cenário, este trabalho investiga como princípios da descentrali
 
 ## Objetivos Específicos
 
-- Mapear e revisar criticamente abordagens de autenticação descentralizada (2018–2025).
-- Analisar comparativamente *OAuth 2.0*, *OpenID Connect* e modelos baseados em blockchain.
-- Levantar métricas técnicas para avaliação de segurança, desempenho e usabilidade.
-- Propor diretrizes de engenharia para desenvolvimento de modelos híbridos ou soberanos.
+- Analisar criticamente abordagens recentes de autenticação descentralizada (2018–2025).  
+- Comparar *OAuth 2.0*, *OpenID Connect* e modelos baseados em blockchain.  
+- Levantar métricas técnicas de segurança, desempenho e usabilidade com base em estudos empíricos.  
+- Propor diretrizes de engenharia para desenvolvimento de sistemas híbridos ou soberanos.  
 - Evidenciar o papel da descentralização na soberania digital do usuário.
 
 ---
 
 ## Metodologia
 
-A pesquisa segue princípios da **Engenharia de Software Experimental** e do **Design Science Research (DSR)**, organizando-se nas seguintes etapas:
+A pesquisa segue princípios da **Engenharia de Software Experimental** e da **pesquisa documental comparativa**, estruturada nas seguintes etapas:
 
-1. **Revisão Sistemática da Literatura (RSL)** baseada em protocolo definido no Apêndice.  
-2. **Seleção de casos comparativos**, incluindo:  
-   - um sistema centralizado (*OAuth 2.0*),  
-   - um sistema descentralizado baseado em blockchain.  
-3. **Extração e tabulação de métricas**, considerando segurança, desempenho, usabilidade e escalabilidade.  
-4. **Análise comparativa** utilizando métodos qualitativos e quantitativos.  
-5. **Elaboração de diretrizes conceituais** para orientar o desenvolvimento de sistemas de autenticação soberana.
+1. **Levantamento e análise documental** de estudos primários sobre autenticação centralizada e descentralizada, sem uso de RSL formal.  
+2. **Seleção de artigos e casos representativos**, incluindo:  
+   - um protocolo centralizado (*OAuth 2.0*),  
+   - um modelo descentralizado baseado em blockchain.  
+3. **Extração e comparação de métricas** divulgadas nos estudos, considerando segurança, desempenho, escalabilidade e usabilidade.  
+4. **Análise comparativa** empregando raciocínio empírico e interpretação técnica.  
+5. **Síntese de diretrizes de engenharia** para orientar a construção de sistemas de autenticação soberana e auditável.
 
 A execução seguirá o cronograma da disciplina **TCC I – PUCMG (2025/1)**.
 
@@ -67,10 +67,10 @@ A execução seguirá o cronograma da disciplina **TCC I – PUCMG (2025/1)**.
 
 ## Resultados Esperados
 
-- Um panorama comparativo completo entre autenticação centralizada e descentralizada.  
-- Identificação de lacunas e desafios que dificultam a adoção de modelos soberanos.  
-- Um **framework conceitual** para orientar soluções híbridas ou descentralizadas.  
+- Um panorama comparativo sólido entre autenticação centralizada e descentralizada.  
+- Identificação de lacunas técnicas e desafios práticos para adoção de modelos soberanos.  
+- Formulação de um **framework conceitual** para orientar soluções híbridas ou descentralizadas.  
 - Diretrizes práticas que equilibrem segurança, privacidade, usabilidade e auditabilidade.  
-- Indicação de continuidade para o **TCC II**, para resultados, conclusões e finalização do trabalho.
+- Continuidade no **TCC II** para análise final, conclusão e possível implementação prática.
 
 ---
