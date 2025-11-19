@@ -1,0 +1,45 @@
+# Fichamento – *Providing Guidance to Software Practitioners: A Framework for Creating KPIs*  
+**Autores:** Iffat Fatima, Markus Funke, Patricia Lago  
+**Publicado em:** IEEE Software, 2024  
+**Tema:** Framework para criação, avaliação e uso de KPIs em contexto de software
+
+---
+
+## 1. Fichamento de Conteúdo
+
+O artigo discute como organizações frequentemente medem dados em excesso e sem conexão real com seus objetivos estratégicos. Para resolver esse problema, os autores propõem um **framework completo para criação de KPIs**, composto por:
+
+- **Modelo conceitual de KPI (UML)**
+- **Template estruturado para criação de KPIs**
+- **Checklist prático para validar KPIs**
+
+O objetivo é oferecer orientação clara para que profissionais criem indicadores alinhados a metas reais, evitem medições irrelevantes e consigam ligar métricas técnicas a objetivos estratégicos. O framework foi avaliado por meio de **quatro estudos de caso industriais**, envolvendo instituições financeiras e empresas de aviação. Os autores analisaram métricas já utilizadas, identificaram falhas, preencheram templates com os times e derivaram lições práticas.
+
+Os resultados mostram que o framework facilita visualizar lacunas, redefinir KPIs, evitar erros comuns (como medir apenas porque “os dados existem”), e ajuda equipes a conectar metas organizacionais a medidas de software. O trabalho enfatiza KPIs que sejam **quantificáveis, acionáveis, frequentes e ligados a metas**, evitando indicadores inúteis ou influenciados por recompensas de RH.
+
+---
+
+## 2. Fichamento Bibliográfico
+
+- Organizações coletam *excesso de dados* sem vínculo com metas estratégicas → necessidade de estruturação (p.1–2).  
+- Framework inclui **modelo**, **template** e **checklist**, guiados por literatura e estudos de caso (p.2–3).  
+- Quatro estudos de caso foram aplicados em instituições financeiras e aviação, revelando fragilidades em KPIs existentes (p.3–4).  
+- Modelo define cinco blocos conceituais: **Goal, CSF, KPI, Metric e Measure** (p.4).  
+- Checklist inclui: *detachment from HR incentives*, target-driven, action-driven, quantifiable, continuous & frequent measurement (p.5).  
+- Framework mostra utilidade ao revelar inconsistências e orientar revisões de indicadores (p.6–7).  
+- Contribuição final: lições aprendidas e boas práticas para o uso de KPIs em sistemas de software (p.7).
+
+---
+
+## 3. Fichamento de Citações
+
+- “Measuring for the sake of measuring is a common pitfall.”  
+- “A structured mechanism is crucial to link business goals and measurements.”  
+- “We present a KPI framework in the form of a model, template, and checklist to guide practitioners.”  
+- “The template helps identify gaps and mapping inconsistencies in existing KPIs.”  
+- “KPIs must be target-driven, action-driven, and frequently measured.”  
+- “Simplification is key… The value provided by the KPI is more important than possible visualizations.”  
+- “Models do not replace human experience, but they support actionable decision-making.”
+
+
+
