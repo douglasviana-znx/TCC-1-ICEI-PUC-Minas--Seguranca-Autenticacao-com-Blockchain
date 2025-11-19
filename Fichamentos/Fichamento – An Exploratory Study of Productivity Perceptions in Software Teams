@@ -1,0 +1,49 @@
+# Fichamento – *An Exploratory Study of Productivity Perceptions in Software Teams*  
+**Autores:** Anastasia Ruvimova, Alexander Lill, Jan Gugler, Lauren Howe, Elaine Huang, Gail Murphy, Thomas Fritz  
+**Publicado em:** ICSE 2022  
+**Tema:** Produtividade em equipes de software, percepção individual vs. coletiva
+
+---
+
+## 1. Fichamento de Conteúdo
+
+O artigo investiga como desenvolvedores percebem sua própria produtividade e a produtividade de suas equipes, explorando a relação entre fatores individuais, colaborativos e organizacionais. Baseado em um estudo longitudinal de três meses com **25 desenvolvedores de cinco equipes** na América do Norte e Europa, os autores coletaram **624 surveys diários** e **2899 auto-relatos bi-horários**, além de entrevistas mensais.
+
+O estudo mostra que equipes de software operam em **estruturas fluidas e dinâmicas**, com fronteiras pouco claras entre sub-times, o que prejudica a consciência situacional (“team awareness”). Os desenvolvedores frequentemente possuem baixa visibilidade sobre o trabalho do time, especialmente devido ao trabalho remoto durante a pandemia. Assim, acabam usando **proxies subjetivos**, como responsividade de colegas, interações ao longo do dia e reuniões, para estimar a produtividade coletiva.
+
+O principal achado é que a **percepção de produtividade individual é o maior preditor da percepção de produtividade da equipe**, mais forte do que fatores como quantidade de interações, reuniões ou trabalho não planejado. Isso evidencia uma forte projeção individual na avaliação coletiva. O artigo discute como meetings, colaboração, bloqueios e responsividade afetam produtividade, e sugere que medir produtividade de times requer capturar a fluidez e complexidade da colaboração moderna em software.
+
+---
+
+## 2. Fichamento Bibliográfico
+
+- Equipes de software operam em *estruturas fluidas*, com membros que alternam entre sub-times conforme tarefas e projetos (p. 6–7).  
+- Desenvolvedores têm **baixa consciência da produtividade do time**, especialmente em trabalho remoto, dificultando julgamentos confiáveis (p. 7–8).  
+- Para estimar produtividade coletiva, usam proxies como reuniões, engajamento e responsividade em chats e code reviews (p. 8–9).  
+- Métricas automatizadas (Kanban, commits, tickets) são raramente usadas pelos participantes para avaliar produtividade da equipe (p. 9).  
+- Responsividade de colegas impacta produtividade individual e coletiva, especialmente quando há bloqueios (p. 10).  
+- Regressão estatística mostra que **produtividade individual é o maior preditor da produtividade percebida do time** (p. 11).  
+- Meetings têm impacto ambíguo, podendo ajudar ou atrapalhar dependendo da estrutura, frequência e foco (p. 12).  
+- Gerentes avaliam produtividade de forma holística (compromissos, impacto), enquanto desenvolvedores acreditam ser avaliados por output visível (p. 10–11).  
+
+---
+
+## 3. Fichamento de Citações
+
+- “Developers tend to operate in fluid team constructs, which impacts team awareness and complicates measuring team productivity.”  
+- “Perceived individual productivity most strongly predicted perceived team productivity.”  
+- “I have no means or mechanism to easily determine how much work they’ve done.”  
+- “Team meetings are generally productive when there are concrete results or actionable decisions.”  
+- “Since I can’t see my team, I assume they are being productive.”  
+- “Availability and responsiveness of teammates were frequently used as indicators of team productivity.”  
+- “Assessing team productivity is difficult, especially due to limited awareness of what others are working on.”  
+- “Meetings can both drive progress forward and fragment the workday.”  
+
+---
+
+## 4. Síntese Final
+
+O estudo mostra que medir produtividade em equipes de software é muito mais complexo do que avaliar indivíduos isoladamente. Devido à fluidez das equipes, mudanças frequentes de configuração e baixa visibilidade do trabalho alheio, desenvolvedores recorrem a impressões subjetivas para avaliar o desempenho coletivo. O achado mais relevante — a forte correlação entre percepções individuais e de equipe — evidencia como avaliações humanas são moldadas por experiências pessoais e não necessariamente por métricas objetivas.
+
+A pesquisa destaca a necessidade de novas abordagens para mensurar produtividade em contextos colaborativos modernos, considerando awareness, dinamicidade das equipes, e o impacto do trabalho remoto. As implicações são importantes para engenharia de software, gestão de times e pesquisas futuras sobre colaboração distribuída.
+
