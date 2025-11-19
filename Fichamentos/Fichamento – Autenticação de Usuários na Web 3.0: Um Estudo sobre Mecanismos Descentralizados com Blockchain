@@ -1,0 +1,32 @@
+# Fichamento – Autenticação de Usuários na Web 3.0: Um Estudo sobre Mecanismos Descentralizados com Blockchain  
+**Jaffal, W.; Cardoso, L. S.; Bussaador, A. (2024).**  
+Centro Universitário UDC, Foz do Iguaçu – Brasil.
+
+---
+
+## 1. Fichamento de Conteúdo
+
+O artigo investiga como a tecnologia blockchain pode ser aplicada para autenticação descentralizada de usuários na Web 3.0, contrastando essa abordagem com métodos tradicionais centralizados. Os autores contextualizam a evolução da Web, desde a Web 1.0 estática até a Web 3.0 semântica, destacando avanços em descentralização, privacidade e controle de dados pelos usuários. A pesquisa revisa conceitos fundamentais de blockchain, sua evolução (1.0, 2.0 e 3.0) e aplicações práticas, incluindo autenticação, contratos inteligentes e identidade digital. O estudo ainda desenvolve um protótipo de registro de usuários baseado em blockchain para analisar, na prática, benefícios como imutabilidade, transparência e resiliência a falhas. Em contrapartida, reconhece limitações associadas à Web3, como complexidade técnica, desafios de adoção e escalabilidade. O trabalho conclui que a abordagem descentralizada fornece segurança superior e maior autonomia ao usuário, sendo promissora para o futuro da gestão de identidades digitais.
+
+---
+
+## 2. Fichamento Bibliográfico
+
+- A Web 3.0 é caracterizada por descentralização, semântica e capacidade de processamento autônomo por máquinas (p. 2–3).  
+- Blockchain evoluiu desde o Bitcoin (Blockchain 1.0), passando por contratos inteligentes (2.0) até aplicações avançadas em diversos setores (3.0) (p. 2).  
+- O processo de autenticação Web3 utiliza **tokens**, **NFTs** ou **chaves criptográficas** para representar identidades digitais únicas (p. 4).  
+- Contratos inteligentes são usados para políticas de controle de acesso e autenticação automatizada (p. 4).  
+- Sistemas centralizados apresentam vulnerabilidades associadas a ponto único de falha; sistemas descentralizados oferecem maior segurança e resiliência (p. 6).  
+- O protótipo desenvolvido utiliza blockchain para registro e autenticação, evidenciando vantagens como transparência e ausência de intermediários (p. 5).
+
+---
+
+## 3. Fichamento de Citações
+
+- “A Web 3.0 objetiva criar uma internet mais segura e privada, focando na descentralização de dados e na eliminação de intermediários por meio da tecnologia blockchain.”  
+- “A tecnologia blockchain evoluiu para além das transações financeiras, destacando-se pela descentralização e pelo armazenamento de dados distribuídos.”  
+- “A autenticação descentralizada garante ao usuário controle total sobre seus próprios dados, diferentemente dos sistemas centralizados tradicionais.”  
+- “Contratos inteligentes são usados para definir políticas de controle de acesso baseadas no endereço de contrato do usuário.”  
+- “A tecnologia blockchain garante que os dados sejam imutáveis e distribuídos, reduzindo os riscos de manipulação.”  
+- “Os sistemas descentralizados oferecem maior segurança, controle de privacidade pelo usuário e resistência a alterações não autorizadas.”
+
