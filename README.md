@@ -1,4 +1,4 @@
-# Autenticação Descentralizada com Blockchain: Eficácia, Barreiras de Adoção e Contribuições da Engenharia de Software
+# Comparação Empírica entre Mecanismos Centralizados e Descentralizados de Autenticação
 
 **Autor:** Douglas Viana Fernandes  
 **Instituição:** Pontifícia Universidade Católica de Minas Gerais – PUCMG  
